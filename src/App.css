@@ -126,12 +126,15 @@ body {
 }
 
 .products-container {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 40px;
+  justify-items: center;
   margin-top: 30px;
   margin-bottom: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 0 80px;
 }
 
 .plant-card {
