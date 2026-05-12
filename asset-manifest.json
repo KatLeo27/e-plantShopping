@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/Nursery-site/static/css/main.f6d3684b.css",
-    "main.js": "/Nursery-site/static/js/main.f84e0bb6.js",
+    "main.css": "/Nursery-site/static/css/main.72b1c84f.css",
+    "main.js": "/Nursery-site/static/js/main.d84059bd.js",
+    "static/media/parlor_palm.png": "/Nursery-site/static/media/parlor_palm.a1f71f2f3a5b9b730082.png",
     "static/media/back-img.png": "/Nursery-site/static/media/back-img.1b7d1d624d902f9548da.png",
     "static/media/snake_plant.png": "/Nursery-site/static/media/snake_plant.ad6626f19f64e5504eca.png",
+    "static/media/chinese_evergreen.png": "/Nursery-site/static/media/chinese_evergreen.a81cf068dfd35e81d741.png",
     "static/media/fern.png": "/Nursery-site/static/media/fern.2c2889d8fa66f0fd4c22.png",
+    "static/media/mint.png": "/Nursery-site/static/media/mint.9ed11b90f24be855ba2d.png",
+    "static/media/areca_palm.png": "/Nursery-site/static/media/areca_palm.53e863cd78a7c9f438f9.png",
     "static/media/cactus.png": "/Nursery-site/static/media/cactus.77028e7c19d3d3952808.png",
     "static/media/nursery-logo.png": "/Nursery-site/static/media/nursery-logo.ba35b4a335035a8e227c.png",
     "static/media/peace_lily.png": "/Nursery-site/static/media/peace_lily.4c579b44323c6ee95b33.png",
+    "static/media/basil.png": "/Nursery-site/static/media/basil.48800c95392c6b172b8e.png",
+    "static/media/lavender.png": "/Nursery-site/static/media/lavender.c35c1fc5a32febd83d4c.png",
     "static/media/spider_plant.png": "/Nursery-site/static/media/spider_plant.ca5f61938b80c3ed463a.png",
+    "static/media/pothos.png": "/Nursery-site/static/media/pothos.975a130025b3b3efac45.png",
+    "static/media/neem.png": "/Nursery-site/static/media/neem.420ec90573e294862540.png",
+    "static/media/monstera.png": "/Nursery-site/static/media/monstera.d0e0d3f82c0bf3ccf4b8.png",
     "index.html": "/Nursery-site/index.html",
-    "main.f6d3684b.css.map": "/Nursery-site/static/css/main.f6d3684b.css.map",
-    "main.f84e0bb6.js.map": "/Nursery-site/static/js/main.f84e0bb6.js.map"
+    "main.72b1c84f.css.map": "/Nursery-site/static/css/main.72b1c84f.css.map",
+    "main.d84059bd.js.map": "/Nursery-site/static/js/main.d84059bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d3684b.css",
-    "static/js/main.f84e0bb6.js"
+    "static/css/main.72b1c84f.css",
+    "static/js/main.d84059bd.js"
   ]
 }
