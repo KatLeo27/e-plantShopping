@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nursery-site/static/css/main.f6d3684b.css",
+    "main.js": "/Nursery-site/static/js/main.f84e0bb6.js",
+    "static/media/back-img.png": "/Nursery-site/static/media/back-img.1b7d1d624d902f9548da.png",
+    "static/media/snake_plant.png": "/Nursery-site/static/media/snake_plant.ad6626f19f64e5504eca.png",
+    "static/media/fern.png": "/Nursery-site/static/media/fern.2c2889d8fa66f0fd4c22.png",
+    "static/media/cactus.png": "/Nursery-site/static/media/cactus.77028e7c19d3d3952808.png",
+    "static/media/nursery-logo.png": "/Nursery-site/static/media/nursery-logo.ba35b4a335035a8e227c.png",
+    "static/media/peace_lily.png": "/Nursery-site/static/media/peace_lily.4c579b44323c6ee95b33.png",
+    "static/media/spider_plant.png": "/Nursery-site/static/media/spider_plant.ca5f61938b80c3ed463a.png",
+    "index.html": "/Nursery-site/index.html",
+    "main.f6d3684b.css.map": "/Nursery-site/static/css/main.f6d3684b.css.map",
+    "main.f84e0bb6.js.map": "/Nursery-site/static/js/main.f84e0bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d3684b.css",
+    "static/js/main.f84e0bb6.js"
+  ]
+}
