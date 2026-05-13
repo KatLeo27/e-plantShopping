@@ -58,7 +58,11 @@ function CartItem() {
             <img src={item.image} alt={item.name} className="cart-image"/>
             <div className="cart-details">
               <h2>{item.name}</h2>
-              <p>${item.price}</p>
+              <p>
+                Unit Price:
+                {" "}
+                ${item.price}
+              </p>
               <div className="quantity-buttons">
                 <button onClick={() =>
                     dispatch(
